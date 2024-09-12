@@ -1,0 +1,1 @@
+import{m as o,f as c,g as l,h as s,A as t}from"./DsqUYuUE.js";const n={},a={class:"flex flex-col gap-2"},r={class:"font-bold text-2xl"};function i(e,f){return c(),l("section",a,[s("h2",r,[t(e.$slots,"title")]),s("h3",null,[t(e.$slots,"description")])])}const d=o(n,[["render",i]]);export{d as default};
